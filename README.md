@@ -1,6 +1,3 @@
-Here is the **entire `README.md`**, clean and copy-paste ready:
-
-```markdown
 # Cited Sports Encyclopedia
 
 A Retrieval-Augmented Generation (RAG) application that answers sports-related questions using information from provided datasets while ensuring grounded responses, inline citations, and safe handling of unsupported queries.
